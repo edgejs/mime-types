@@ -1,5 +1,5 @@
 {
-  "name": "mime-types",
+  "name": "@edge-js/mime-types",
   "description": "The ultimate javascript content-type utility.",
   "version": "2.1.35",
   "contributors": [
@@ -12,7 +12,7 @@
     "mime",
     "types"
   ],
-  "repository": "jshttp/mime-types",
+  "repository": "edgejs/mime-types",
   "dependencies": {
     "mime-db": "1.52.0"
   },
